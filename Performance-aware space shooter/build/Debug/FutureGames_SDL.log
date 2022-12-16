@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\C++projects\Perforamnce assignment\src\Engine.h(14,2): warning C4091: 'extern ': ignored on left of 'Vector2' when no variable is declared
+C:\C++projects\Perforamnce assignment\src\Engine.h(24,2): warning C4091: 'extern ': ignored on left of 'Vector3' when no variable is declared
+  FutureGames_SDL.vcxproj -> C:\C++projects\Perforamnce assignment\bin\Game_Debug.exe
